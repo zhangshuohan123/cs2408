@@ -1,0 +1,185 @@
+{
+  "sign": "明德厚学，求是创新",
+  "exhibitions": [
+    {
+      "name": "John Doe",
+      "dormitory": "321",
+      "url": "https://www.johndoe.com/"
+    }
+  ],
+  "committees": [
+    {
+      "name": "John Doe",
+      "position": "t",
+      "url": "https://johndoe.com/"
+    }
+  ],
+  "dormitories": [
+    {
+      "name": "319",
+      "sign": "test",
+      "url": "",
+      "members": [
+        {
+          "name": "zzb",
+          "url": ""
+        },
+        {
+          "name": "t2",
+          "url": ""
+        },
+        {
+          "name": "t3",
+          "url": ""
+        },
+        {
+          "name": "t4",
+          "url": ""
+        }
+      ]
+    },{
+      "name": "320",
+      "sign": "test",
+      "url": "",
+      "members": [
+        {
+          "name": "zzb",
+          "url": ""
+        },
+        {
+          "name": "t2",
+          "url": ""
+        },
+        {
+          "name": "t3",
+          "url": ""
+        },
+        {
+          "name": "t4",
+          "url": ""
+        }
+      ]
+    },{
+      "name": "321",
+      "sign": "test",
+      "url": "",
+      "members": [
+        {
+          "name": "zzb",
+          "url": ""
+        },
+        {
+          "name": "t2",
+          "url": ""
+        },
+        {
+          "name": "t3",
+          "url": ""
+        },
+        {
+          "name": "t4",
+          "url": ""
+        }
+      ]
+    },{
+      "name": "322",
+      "sign": "test",
+      "url": "",
+      "members": [
+        {
+          "name": "zzb",
+          "url": ""
+        },
+        {
+          "name": "t2",
+          "url": ""
+        },
+        {
+          "name": "t3",
+          "url": ""
+        },
+        {
+          "name": "t4",
+          "url": ""
+        }
+      ]
+    },{
+      "name": "323",
+      "sign": "test",
+      "url": "",
+      "members": [
+        {
+          "name": "zzb",
+          "url": ""
+        },
+        {
+          "name": "t2",
+          "url": ""
+        },
+        {
+          "name": "t3",
+          "url": ""
+        },
+        {
+          "name": "t4",
+          "url": ""
+        }
+      ]
+    },{
+      "name": "324",
+      "sign": "test",
+      "url": "",
+      "members": [
+        {
+          "name": "zzb",
+          "url": ""
+        },
+        {
+          "name": "t2",
+          "url": ""
+        },
+        {
+          "name": "t3",
+          "url": ""
+        },
+        {
+          "name": "t4",
+          "url": ""
+        }
+      ]
+    },{
+      "name": "325",
+      "sign": "test",
+      "url": "",
+      "members": [
+        {
+          "name": "zzb",
+          "url": ""
+        },
+        {
+          "name": "t2",
+          "url": ""
+        },
+        {
+          "name": "t3",
+          "url": ""
+        },
+        {
+          "name": "t4",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "605",
+      "sign": "322",
+      "url": "",
+      "member": [
+        {
+          "name": "t1",
+          "url": ""
+        }
+      ]
+    }
+  ]
+}
