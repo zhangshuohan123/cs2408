@@ -32,35 +32,45 @@
     <div class="container" id="content">
         <div class="row">
             <div class="col-md-2">
-                <div class="card exhibitionCard" v-for="exhibition in exhibitions">
-                    <a target="_blank" v-bind:href="exhibition.url"><h1>{{exhibition.name}}</h1></a>
-                    <p>{{exhibition.dormitory}}</p>
+                <div class="card">
+                    <h2>优秀作业</h2>
+                    <div class="card exhibitionCard" v-for="exhibition in exhibitions">
+                        <a target="_blank" v-bind:href="exhibition.url"><h1>{{exhibition.name}}</h1></a>
+                        <p>{{exhibition.dormitory}}</p>
+                    </div>
                 </div>
             </div>
             <div class="col-md-8">
                 <div class="card dormitoryCard" v-for="dormitory in dormitories">
                     <a target="_blank" v-bind:href="dormitory.url"><h1>{{dormitory.name}}</h1>
-                    <p>{{dormitory.sign}}</p></a>
+                        <p>{{dormitory.sign}}</p></a>
                     <div class="row">
                         <div class="card col-md-6" v-for="member in dormitory.members">
-                            <a v-bind:href="member.url"><h2>{{member.name}}</h2></a>
+                            <a target="_blank" v-bind:href="member.url"><h2>{{member.name}}</h2></a>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-md-2">
-                <div class="card committeeCard" v-for="committee in committees">
-                    <a target="_blank" v-bind:href="committee.url"><h1>{{committee.name}}</h1></a>
-                    <p>{{committee.position}}</p>
+
+                <div class="card">
+                    <h2>特色展示</h2>
+                    <div class="card featureCard" v-for="feature in features">
+                        <a target="_blank" v-bind:href="feature.url"><h1>{{feature.name}}</h1></a>
+                        <p>{{feature.intro}}</p>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
 <footer>
-    <p>Copyright &copy <a target="_blank" href="http://ztsubaki.xyz/">ZTsubaki</a></p>
-    <p>2024 @ CS2408</p><p><a target="_blank" href="https://cs.hust.edu.cn/">School of Computer Science</a> ,<a target="_blank" href="https://hust.edu.cn/">HUST</a></p>
-    <p><a target="_blank" href="https://github.com/JackDavidZhang/cs2408/">GitHub</a>
+    <p>Copyright &copy <a href="http://ztsubaki.xyz/" target="_blank">ZTsubaki</a></p>
+    <p>2024 @ CS2408</p>
+    <p><a href="https://cs.hust.edu.cn/" target="_blank">School of Computer Science</a> ,<a href="https://hust.edu.cn/"
+                                                                                            target="_blank">HUST</a>
+    </p>
+    <p><a href="https://github.com/JackDavidZhang/cs2408/" target="_blank">GitHub</a>
     </p>
 </footer>
 <script src="js/index.js"></script>

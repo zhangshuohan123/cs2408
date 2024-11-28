@@ -2,16 +2,16 @@
   "sign": "明德厚学，求是创新",
   "exhibitions": [
     {
-      "name": "John Doe",
-      "dormitory": "321",
-      "url": "https://www.johndoe.com/"
+      "name": "丁一",
+      "dormitory": "323",
+      "url": "https://ssfdcadm.github.io/web/"
     }
   ],
-  "committees": [
+  "features": [
     {
-      "name": "John Doe",
-      "position": "t",
-      "url": "https://johndoe.com/"
+      "name": "丁一",
+      "intro": "波士顿凯尔特人",
+      "url": "https://ssfdcadm.github.io/web/"
     }
   ],
   "dormitories": [
@@ -29,154 +29,162 @@
           "url": ""
         },
         {
-          "name": "孙",
+          "name": "孙奕轩",
           "url": ""
         },
         {
-          "name": "t4",
+          "name": "金峻田",
           "url": ""
         }
       ]
     },{
       "name": "320",
-      "sign": "test",
+      "sign": "",
       "url": "",
       "members": [
         {
-          "name": "zzb",
+          "name": "董哲",
           "url": ""
         },
         {
-          "name": "t2",
+          "name": "郑博远",
           "url": ""
         },
         {
-          "name": "t3",
+          "name": "李宗锴",
           "url": ""
         },
         {
-          "name": "t4",
+          "name": "许阳",
           "url": ""
         }
       ]
     },{
       "name": "321",
-      "sign": "test",
+      "sign": "青春奋斗不止，人生向死而生",
       "url": "",
       "members": [
         {
-          "name": "zzb",
+          "name": "张洋译",
           "url": ""
         },
         {
-          "name": "t2",
+          "name": "张智博",
+          "url": "http://ztsubaki.xyz/"
+        },
+        {
+          "name": "陈润泽",
           "url": ""
         },
         {
-          "name": "t3",
-          "url": ""
-        },
-        {
-          "name": "t4",
+          "name": "胡志峰",
           "url": ""
         }
       ]
     },{
       "name": "322",
-      "sign": "test",
+      "sign": "",
       "url": "",
       "members": [
         {
-          "name": "zzb",
+          "name": "吴晓宇",
           "url": ""
         },
         {
-          "name": "t2",
+          "name": "李沐雨",
           "url": ""
         },
         {
-          "name": "t3",
+          "name": "李百鑫",
           "url": ""
         },
         {
-          "name": "t4",
+          "name": "张硕涵",
           "url": ""
         }
       ]
     },{
       "name": "323",
-      "sign": "test",
+      "sign": "",
       "url": "",
       "members": [
         {
-          "name": "zzb",
+          "name": "李硕",
           "url": ""
         },
         {
-          "name": "t2",
+          "name": "张昊琛",
           "url": ""
         },
         {
-          "name": "t3",
-          "url": ""
+          "name": "丁一",
+          "url": "https://ssfdcadm.github.io/web/"
         },
         {
-          "name": "t4",
+          "name": "黄子豪",
           "url": ""
         }
       ]
     },{
       "name": "324",
-      "sign": "test",
+      "sign": "",
       "url": "",
       "members": [
         {
-          "name": "zzb",
+          "name": "庄梓泓",
           "url": ""
         },
         {
-          "name": "t2",
+          "name": "李铭皓",
           "url": ""
         },
         {
-          "name": "t3",
+          "name": "张承睿",
           "url": ""
         },
         {
-          "name": "t4",
+          "name": "王梓潇",
           "url": ""
         }
       ]
     },{
       "name": "325",
-      "sign": "test",
+      "sign": "",
       "url": "",
       "members": [
         {
-          "name": "zzb",
+          "name": "何顺",
           "url": ""
         },
         {
-          "name": "t2",
+          "name": "陈梓阳",
           "url": ""
         },
         {
-          "name": "t3",
-          "url": ""
-        },
-        {
-          "name": "t4",
+          "name": "凌子涵",
           "url": ""
         }
       ]
     },
     {
       "name": "605",
-      "sign": "322",
+      "sign": "",
       "url": "",
-      "member": [
+      "members": [
         {
-          "name": "t1",
+          "name": "贾玉",
+          "url": ""
+        },
+        {
+          "name": "连一铭",
+          "url": ""
+        },
+        {
+          "name": "吕涵琦",
+          "url": ""
+        },
+        {
+          "name": "张语殊",
           "url": ""
         }
       ]
