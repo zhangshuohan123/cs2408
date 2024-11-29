@@ -1,18 +1,15 @@
 {
   "sign": "明德厚学，求是创新",
+  "rand_num": 3,
   "exhibitions": [
     {
       "name": "丁一",
       "dormitory": "323",
-      "url": "https://ssfdcadm.github.io/web/"
+      "url": "https://ssfdcadm.github.io/web/",
+      "intro": "波士顿凯尔特人队"
     }
   ],
-  "features": [
-    {
-      "name": "丁一",
-      "intro": "波士顿凯尔特人",
-      "url": "https://ssfdcadm.github.io/web/"
-    }
+  "randoms": [
   ],
   "dormitories": [
     {
@@ -22,147 +19,180 @@
       "members": [
         {
           "name": "修岩",
-          "url": ""
+          "url": "",
+          "intro": ""
         },
         {
           "name": "曾铱楷",
-          "url": "https://zyk764.github.io/zyk764/"
+          "url": "https://zyk764.github.io/zyk764/",
+          "intro": "个人介绍"
         },
         {
           "name": "孙奕轩",
-          "url": ""
+          "url": "",
+          "intro": ""
         },
         {
           "name": "金峻田",
-          "url": ""
+          "url": "",
+          "intro": ""
         }
       ]
-    },{
+    },
+    {
       "name": "320",
       "sign": "",
       "url": "",
       "members": [
         {
           "name": "董哲",
-          "url": ""
+          "url": "",
+          "intro": ""
         },
         {
           "name": "郑博远",
-          "url": ""
+          "url": "",
+          "intro": ""
         },
         {
           "name": "李宗锴",
-          "url": ""
+          "url": "",
+          "intro": ""
         },
         {
           "name": "许阳",
-          "url": ""
+          "url": "",
+          "intro": ""
         }
       ]
-    },{
+    },
+    {
       "name": "321",
       "sign": "青春奋斗不止，人生早晚要死",
       "url": "",
       "members": [
         {
           "name": "张洋译",
-          "url": ""
+          "url": "",
+          "intro": ""
         },
         {
           "name": "张智博",
-          "url": "http://ztsubaki.xyz/"
+          "url": "http://ztsubaki.xyz/",
+          "intro": "博客主页"
         },
         {
           "name": "陈润泽",
-          "url": ""
+          "url": "",
+          "intro": ""
         },
         {
           "name": "胡志峰",
-          "url": ""
+          "url": "",
+          "intro": ""
         }
       ]
-    },{
+    },
+    {
       "name": "322",
       "sign": "",
       "url": "",
       "members": [
         {
           "name": "吴晓宇",
-          "url": ""
+          "url": "",
+          "intro": ""
         },
         {
           "name": "李沐雨",
-          "url": ""
+          "url": "",
+          "intro": ""
         },
         {
           "name": "李百鑫",
-          "url": ""
+          "url": "",
+          "intro": ""
         },
         {
           "name": "张硕涵",
-          "url": ""
+          "url": "",
+          "intro": ""
         }
       ]
-    },{
+    },
+    {
       "name": "323",
       "sign": "",
       "url": "",
       "members": [
         {
           "name": "李硕",
-          "url": ""
+          "url": "",
+          "intro": ""
         },
         {
           "name": "张昊琛",
-          "url": ""
+          "url": "",
+          "intro": ""
         },
         {
           "name": "丁一",
-          "url": "https://ssfdcadm.github.io/web/"
+          "url": "https://ssfdcadm.github.io/web/",
+          "intro": "波士顿凯尔特人队"
         },
         {
           "name": "黄子豪",
-          "url": ""
+          "url": "",
+          "intro": ""
         }
       ]
-    },{
+    },
+    {
       "name": "324",
       "sign": "",
       "url": "",
       "members": [
         {
           "name": "庄梓泓",
-          "url": ""
+          "url": "",
+          "intro": ""
         },
         {
           "name": "李铭皓",
-          "url": ""
+          "url": "",
+          "intro": ""
         },
         {
           "name": "张承睿",
-          "url": ""
+          "url": "",
+          "intro": ""
         },
         {
           "name": "王梓潇",
-          "url": ""
+          "url": "",
+          "intro": ""
         }
       ]
-    },{
+    },
+    {
       "name": "325",
       "sign": "",
       "url": "",
       "members": [
         {
           "name": "何顺",
-          "url": ""
+          "url": "",
+          "intro": ""
         },
         {
           "name": "陈梓阳",
-          "url": ""
+          "url": "",
+          "intro": ""
         },
         {
           "name": "凌子涵",
-          "url": ""
+          "url": "",
+          "intro": ""
         }
       ]
     },
@@ -173,19 +203,23 @@
       "members": [
         {
           "name": "贾玉",
-          "url": ""
+          "url": "",
+          "intro": ""
         },
         {
           "name": "连一茗",
-          "url": ""
+          "url": "",
+          "intro": ""
         },
         {
           "name": "吕涵琦",
-          "url": ""
+          "url": "",
+          "intro": ""
         },
         {
           "name": "张语殊",
-          "url": ""
+          "url": "",
+          "intro": ""
         }
       ]
     }

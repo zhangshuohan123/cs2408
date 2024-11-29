@@ -22,6 +22,11 @@
 </head>
 <body>
 <div id="vm">
+    <nav id="nav_bar" class="invisible nav_invisible">
+        <h1>CS2408</h1>
+        <img  alt=""  src=""/>
+        <div class = "nav_bottom"></div>
+    </nav>
     <div id="title">
         <div>
             <h1>CS2408</h1>
@@ -31,16 +36,17 @@
     </div>
     <div class="container" id="content">
         <div class="row">
-            <div class="col-md-2">
+            <div class="col-lg-2 col-md-12">
                 <div class="card">
                     <h2>优秀作业</h2>
                     <div class="card exhibitionCard" v-for="exhibition in exhibitions">
                         <a target="_blank" v-bind:href="exhibition.url"><h1>{{exhibition.name}}</h1></a>
                         <p>{{exhibition.dormitory}}</p>
+                        <p>{{exhibition.intro}}</p>
                     </div>
                 </div>
             </div>
-            <div class="col-md-8">
+            <div class="col-lg-8 col-md-12">
                 <div class="card dormitoryCard" v-for="dormitory in dormitories">
                     <a target="_blank" v-bind:href="dormitory.url"><h1>{{dormitory.name}}</h1>
                         <p>{{dormitory.sign}}</p></a>
@@ -51,13 +57,14 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-2">
+            <div class="col-lg-2 col-md-12">
 
                 <div class="card">
-                    <h2>特色展示</h2>
-                    <div class="card featureCard" v-for="feature in features">
-                        <a target="_blank" v-bind:href="feature.url"><h1>{{feature.name}}</h1></a>
-                        <p>{{feature.intro}}</p>
+                    <h2>随机推荐</h2>
+                    <div class="card randomCard" v-for="random in randoms">
+                        <a target="_blank" v-bind:href="random.url"><h1>{{random.name}}</h1></a>
+                        <p>{{random.dormintory}}</p>
+                        <p>{{random.intro}}</p>
                     </div>
                 </div>
             </div>

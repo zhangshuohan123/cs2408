@@ -1,13 +1,13 @@
-a{
+a {
     color: var(--bs-body-color);
     text-decoration: none;
 }
 
-a:hover{
+a:hover {
     color: black;
 }
 
-footer  p, footer a{
+footer p, footer a {
     color: gray;
 }
 
@@ -31,4 +31,17 @@ p, ul, li, ol, a, del {
     font-weight: normal;
     font-size: 16px;
     line-height: 26px;
+}
+
+nav{
+    position: fixed;
+    background-color: #FFFFFF;
+    width : 100%;
+    z-index: 9999;
+    height: 50px;
+}
+
+div.nav_bottom{
+    height : 10px;
+    box-shadow: 0 8px 8px rgba(163,163,163,0.2);
 }
