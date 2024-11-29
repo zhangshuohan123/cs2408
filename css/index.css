@@ -96,13 +96,3 @@ div.exhibitionCard {
     margin-top: 10px;
     margin-bottom: 5px;
 }
-
-nav.nav_visible{
-    top: 0;
-    transition: top 0.4s ease;
-}
-
-nav.nav_invisible{
-    top: -100px;
-    transition: top 0.4s ease;
-}

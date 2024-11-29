@@ -33,15 +33,44 @@ p, ul, li, ol, a, del {
     line-height: 26px;
 }
 
-nav{
+nav {
     position: fixed;
     background-color: #FFFFFF;
-    width : 100%;
+    width: 100%;
     z-index: 9999;
-    height: 50px;
+    height: 60px;
 }
 
-div.nav_bottom{
-    height : 10px;
-    box-shadow: 0 8px 8px rgba(163,163,163,0.2);
+div.nav_bottom {
+    height: 10px;
+    box-shadow: 0 8px 8px rgba(163, 163, 163, 0.2);
+}
+
+
+nav.nav_visible {
+    top: 0;
+    transition: top 0.4s ease;
+}
+
+nav.nav_invisible {
+    top: -100px;
+    transition: top 0.4s ease;
+}
+
+nav > div > h1 {
+    height: 50px;
+    margin: 10px 0 0 30px;
+    float: left;
+    font-size: 42px;
+    font-weight: 400;
+}
+
+nav > div > a > img {
+    float: left;
+    margin: 10px;
+}
+
+nav > div {
+    height: 70px;
+    background-color: #FFFFFF;
 }
